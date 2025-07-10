@@ -38,7 +38,7 @@ The following features are used from the dataset:
 - Seaborn & Matplotlib
 - Scikit-learn
 - Google Colab
-
+Jupyter Notebook
 ---
 
 ## ⚙️ Steps in the Project
